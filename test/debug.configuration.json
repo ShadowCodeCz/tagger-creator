@@ -1,0 +1,15 @@
+{
+  "window": {
+    "open_width": 590,
+    "open_height": 750
+  },
+  "profiles_config": "C:\\Users\\sedaj\\tagger.core\\cfg\\cfg.json",
+  "templates": [
+      "project@",
+      "campaign@",
+      "jira@",
+      "test.result@pass",
+      "test.result@fail",
+      "test.result@excluded"
+    ]
+}
